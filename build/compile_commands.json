@@ -1,0 +1,50 @@
+[
+{
+  "directory": "D:/nibbles-main/nibbles-Homework/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/nibbles.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\nibbles.dir\\src\\main.cpp.obj -c D:\\nibbles-main\\nibbles-Homework\\src\\main.cpp",
+  "file": "D:/nibbles-main/nibbles-Homework/src/main.cpp",
+  "output": "CMakeFiles/nibbles.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/nibbles-main/nibbles-Homework/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/nibbles.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\nibbles.dir\\src\\engine.cpp.obj -c D:\\nibbles-main\\nibbles-Homework\\src\\engine.cpp",
+  "file": "D:/nibbles-main/nibbles-Homework/src/engine.cpp",
+  "output": "CMakeFiles/nibbles.dir/src/engine.cpp.obj"
+},
+{
+  "directory": "D:/nibbles-main/nibbles-Homework/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/nibbles.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\nibbles.dir\\src\\draw.cpp.obj -c D:\\nibbles-main\\nibbles-Homework\\src\\draw.cpp",
+  "file": "D:/nibbles-main/nibbles-Homework/src/draw.cpp",
+  "output": "CMakeFiles/nibbles.dir/src/draw.cpp.obj"
+},
+{
+  "directory": "D:/nibbles-main/nibbles-Homework/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/nibbles.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\nibbles.dir\\src\\input.cpp.obj -c D:\\nibbles-main\\nibbles-Homework\\src\\input.cpp",
+  "file": "D:/nibbles-main/nibbles-Homework/src/input.cpp",
+  "output": "CMakeFiles/nibbles.dir/src/input.cpp.obj"
+},
+{
+  "directory": "D:/nibbles-main/nibbles-Homework/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/nibbles.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\nibbles.dir\\src\\snakesection.cpp.obj -c D:\\nibbles-main\\nibbles-Homework\\src\\snakesection.cpp",
+  "file": "D:/nibbles-main/nibbles-Homework/src/snakesection.cpp",
+  "output": "CMakeFiles/nibbles.dir/src/snakesection.cpp.obj"
+},
+{
+  "directory": "D:/nibbles-main/nibbles-Homework/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/nibbles.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\nibbles.dir\\src\\update.cpp.obj -c D:\\nibbles-main\\nibbles-Homework\\src\\update.cpp",
+  "file": "D:/nibbles-main/nibbles-Homework/src/update.cpp",
+  "output": "CMakeFiles/nibbles.dir/src/update.cpp.obj"
+},
+{
+  "directory": "D:/nibbles-main/nibbles-Homework/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/nibbles.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\nibbles.dir\\src\\apple.cpp.obj -c D:\\nibbles-main\\nibbles-Homework\\src\\apple.cpp",
+  "file": "D:/nibbles-main/nibbles-Homework/src/apple.cpp",
+  "output": "CMakeFiles/nibbles.dir/src/apple.cpp.obj"
+},
+{
+  "directory": "D:/nibbles-main/nibbles-Homework/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/nibbles.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\nibbles.dir\\src\\wall.cpp.obj -c D:\\nibbles-main\\nibbles-Homework\\src\\wall.cpp",
+  "file": "D:/nibbles-main/nibbles-Homework/src/wall.cpp",
+  "output": "CMakeFiles/nibbles.dir/src/wall.cpp.obj"
+}
+]
